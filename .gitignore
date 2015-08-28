@@ -12,3 +12,6 @@ web-server/node_modules/*
 *.swp
 *.sublime-project
 *.sublime-workspace
+
+# Visual Studio 2015 cache/options directory
+.vs/
